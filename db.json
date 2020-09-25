@@ -1,5 +1,9 @@
-[
-  {
+
+{
+
+  "posts": [
+
+    {
     "id": 1,
     "title": "Roses",
     "body": "knockout roses"
@@ -19,4 +23,13 @@
     "title": "Annuals",
     "body": "mary gold"
   }
-]
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
